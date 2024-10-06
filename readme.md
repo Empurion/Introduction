@@ -7,7 +7,7 @@ I'm found on the following social medias:
 - Ethereal Network:
 - Empernet:
 - LinkedIn:
-- <img src="https://www.pngkey.com/png/full/17-179750_discord-logo-png.png" width="50">Discord: @Empurion
+- <img src="https://www.pngkey.com/png/full/17-179750_discord-logo-png.png" width="25">Discord: @Empurion
 - Instagram:
 - Youtube:
 - TikTok:
